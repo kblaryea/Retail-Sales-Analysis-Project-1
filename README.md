@@ -241,18 +241,17 @@ order by total_orders desc;
 
 
 - **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/5852b9fe-df64-487f-afb1-66dfcf4958ec)
-
+![image alt]()
 
 - **Transaction Distribution by Gender Across Product Categories**: The transaction data reveals a relatively balanced purchasing behavior between male and female customers across all product categories. In the Beauty category, females made slightly more transactions (330) than males (282). For Clothing, transactions are nearly even, with males at 354 and females at 347. In the Electronics category, both genders again show similar engagement, with males accounting for 344 transactions and females for 340. This suggests that gender differences in transaction volume are minimal across product types.
-![74b4945a-dd01-4cc2-81b6-d3edf39410ce](https://github.com/user-attachments/assets/fa465f7c-1a0f-4ac6-8c7d-b924dca6b23c)
 
-
+![image alt](74b4945a-dd01-4cc2-81b6-d3edf39410ce.png)
 
 - **Monthly Average Sales Analysis for 2022–2023**: This dataset outlines the average sales figures across each month from January 2022 to December 2023. In 2022, the average sale peaked in July at approximately $541, while the lowest was in February at around $366. The year 2023 saw a high in February at $535, followed by a general downward trend, ending the year with a lower average in December. This trend may reflect seasonal purchasing behaviors or changes in consumer demand over time.
 
 ![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/82a3f8d1-f7f9-4e24-a02e-63289cdbe359)
 
-
+![image alt]()
 
 ## Reports
 
