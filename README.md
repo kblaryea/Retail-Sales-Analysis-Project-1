@@ -237,19 +237,20 @@ order by total_orders desc;
 ## Findings
 
 - **Sales and Order Summary by Product Category**: The data shows that Electronics led in total sales with $313,810 from 684 orders, while Clothing had the highest number of orders at 701, generating $311,070 in sales. Beauty recorded the lowest figures with $286,840 in sales from 612 orders. Overall, sales and order volumes were relatively balanced across categories, with Electronics slightly outperforming in revenue.
-  
-![021b0dd8-1c0a-424d-8c5b-f5f284a034e8](https://github.com/user-attachments/assets/55f431d2-0dbc-4cde-be78-03cf9b7b1393)
+  ![021b0dd8-1c0a-424d-8c5b-f5f284a034e8](https://github.com/user-attachments/assets/66d8dd1e-1498-43b6-9eef-6afeac1abd80)
 
-- **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.
-![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/35192734-bc3c-41fd-aaa8-28af95b85063)
+
+- **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/5852b9fe-df64-487f-afb1-66dfcf4958ec)
+
 
 - **Transaction Distribution by Gender Across Product Categories**: The transaction data reveals a relatively balanced purchasing behavior between male and female customers across all product categories. In the Beauty category, females made slightly more transactions (330) than males (282). For Clothing, transactions are nearly even, with males at 354 and females at 347. In the Electronics category, both genders again show similar engagement, with males accounting for 344 transactions and females for 340. This suggests that gender differences in transaction volume are minimal across product types.
-![74b4945a-dd01-4cc2-81b6-d3edf39410ce](https://github.com/user-attachments/assets/ab788e57-31ff-4dde-9e6c-d6dc8efd2486)
+![74b4945a-dd01-4cc2-81b6-d3edf39410ce](https://github.com/user-attachments/assets/fa465f7c-1a0f-4ac6-8c7d-b924dca6b23c)
+
 
 
 - **Monthly Average Sales Analysis for 2022–2023**: This dataset outlines the average sales figures across each month from January 2022 to December 2023. In 2022, the average sale peaked in July at approximately $541, while the lowest was in February at around $366. The year 2023 saw a high in February at $535, followed by a general downward trend, ending the year with a lower average in December. This trend may reflect seasonal purchasing behaviors or changes in consumer demand over time.
-![95a03b78-66b9-401a-b567-316a7484cff0](https://github.com/user-attachments/assets/79eafae8-7f51-420c-a515-08367cd795b7)
 
+![95a03b78-66b9-401a-b567-316a7484cff0](https://github.com/user-attachments/assets/f06611d0-0f60-4b9b-9932-7ac8e2d5ba9b)
 
 ## Reports
 
