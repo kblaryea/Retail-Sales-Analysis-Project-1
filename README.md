@@ -240,8 +240,8 @@ order by total_orders desc;
  ![image alt](021b0dd8-1c0a-424d-8c5b-f5f284a034e8.png)
 
 
-- **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/5852b9fe-df64-487f-afb1-66dfcf4958ec)
-![image alt]()
+- **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.!
+![image alt](eb8970fb-836d-4d0e-bc50-26f97b4afaca.png)
 
 - **Transaction Distribution by Gender Across Product Categories**: The transaction data reveals a relatively balanced purchasing behavior between male and female customers across all product categories. In the Beauty category, females made slightly more transactions (330) than males (282). For Clothing, transactions are nearly even, with males at 354 and females at 347. In the Electronics category, both genders again show similar engagement, with males accounting for 344 transactions and females for 340. This suggests that gender differences in transaction volume are minimal across product types.
 
