@@ -249,9 +249,7 @@ order by total_orders desc;
 
 - **Monthly Average Sales Analysis for 2022–2023**: This dataset outlines the average sales figures across each month from January 2022 to December 2023. In 2022, the average sale peaked in July at approximately $541, while the lowest was in February at around $366. The year 2023 saw a high in February at $535, followed by a general downward trend, ending the year with a lower average in December. This trend may reflect seasonal purchasing behaviors or changes in consumer demand over time.
 
-![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/82a3f8d1-f7f9-4e24-a02e-63289cdbe359)
-
-![image alt]()
+![image alt](95a03b78-66b9-401a-b567-316a7484cff0.png)
 
 ## Reports
 
