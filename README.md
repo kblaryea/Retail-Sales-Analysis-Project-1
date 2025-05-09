@@ -237,7 +237,7 @@ order by total_orders desc;
 ## Findings
 
 - **Sales and Order Summary by Product Category**: The data shows that Electronics led in total sales with $313,810 from 684 orders, while Clothing had the highest number of orders at 701, generating $311,070 in sales. Beauty recorded the lowest figures with $286,840 in sales from 612 orders. Overall, sales and order volumes were relatively balanced across categories, with Electronics slightly outperforming in revenue.
-  ![021b0dd8-1c0a-424d-8c5b-f5f284a034e8](https://github.com/user-attachments/assets/66d8dd1e-1498-43b6-9eef-6afeac1abd80)
+ ![image alt](021b0dd8-1c0a-424d-8c5b-f5f284a034e8.png)
 
 
 - **Average Age of Customers by Product Category**: The data reveals that customers who purchase Electronics and Clothing have an average age of 42, while those buying Beauty products tend to be slightly younger, with an average age of 40. This suggests a consistent age demographic for Electronics and Clothing, with Beauty products appealing to a marginally younger audience.![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/5852b9fe-df64-487f-afb1-66dfcf4958ec)
@@ -252,7 +252,7 @@ order by total_orders desc;
 
 ![eb8970fb-836d-4d0e-bc50-26f97b4afaca](https://github.com/user-attachments/assets/82a3f8d1-f7f9-4e24-a02e-63289cdbe359)
 
-![image alt]()
+
 
 ## Reports
 
